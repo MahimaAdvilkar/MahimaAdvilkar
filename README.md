@@ -1,3 +1,21 @@
-# Hello World
-#I am Mahima Advilkar
-# I am a Business Analyst
+<h1 align="center">Hi 👋, I'm Mahima Advilkar</h1>
+<h3 align="center">Senior Analyst | Student </h3>
+
+- 🌱 Mahima is currently learning **`Haptic Technologies`** 
+
+- 📄 Know about Mahima's experiences (resume) 
+
+<h3  align="left">Professional Summary</h3>
+  
+ I will update this soon
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mahimaadvilkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahimaadvilkar" height="30" width="40" /></a>
+
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p> At least one project on each </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
