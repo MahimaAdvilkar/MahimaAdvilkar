@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahima Advilkar</h1>
-<h3 align="center">Senior Analyst | Student </h3>
+<h3 align="center">Senior Business Analyst |Student | Actively Looking for Summer Internship Opportunities 2024 |
+  Pursuing Masters in Business Analytics @CSUEB </h3>
 
 - 🌱 Mahima is currently learning **`Haptic Technologies`** 
 
