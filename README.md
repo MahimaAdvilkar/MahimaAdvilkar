@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahima Advilkar</h1>
-<h3 align="center">Senior Business Analyst |Student | Results-driven professional with a proven background in data analysis, consumer insights and digital marketing, poised to contribute expertise as a dedicated Business Analyst. Leveraging a solid foundation in business, market research, cross functional team Collaboration and strategic digital initiatives. </h3>
+<h3 align="center">Senior Business Analyst| California |MSBA Student| Looking for Summer Internship Opportunity 2024 </h3>
 
 - 🌱 Mahima is currently learning **`Haptic Technologies`** 
 
