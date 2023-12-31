@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahima Advilkar</h1>
 <h3 align="center">Senior Business Analyst| California, USA |MSBA Student| Looking for Summer Internship Opportunity 2024 </h3>
 
-- 🌱 Mahima is currently learning **`Haptic Technologies`** 
+- 🌱 Mahima is currently learning **'Business Analysis','Data Mining','Database Management','Data Warehousing','Data Optimization' and `Haptic Technologies`,** 
 
 - 📄 Know about Mahima's experiences (resume) 
 
