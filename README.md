@@ -7,7 +7,7 @@
 
 <h3  align="left">Professional Summary</h3>
   
- I will update this soon
+Actively looking for Summer 2024 Internship| Pursuing Masters in Business Analytics|Business Analyst| Data Analyst| Consumer Insights| Business Intelligence| Market Research Analyst |Ex- Capgemini
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
