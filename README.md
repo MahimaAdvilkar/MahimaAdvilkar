@@ -7,7 +7,7 @@
 
 <h3  align="left">Professional Summary</h3>
   
-Actively looking for Summer 2024 Internship| Pursuing Masters in Business Analytics|Business Analyst| Data Analyst| Consumer Insights| Business Intelligence| Market Research Analyst |Ex- Capgemini
+Actively looking for Full Time Roles| Pursuing Masters in Business Analytics|Business Analyst| Data Analyst| Consumer Insights| Business Intelligence| Market Research Analyst |Ex- Capgemini
 
 As a Senior Analyst at Capgemini, I leverage social media listening tools and keyword planners to extract valuable data, creating insightful reports on emerging trends and market dynamics for various clients. I develop and execute complex boolean queries to ensure data accuracy and relevancy, and craft New Product Development and Market Research Reports that inform key business decisions, resulting in successful product launches and market expansion. I also translate complex data into visually compelling presentations, enabling senior leadership to quickly grasp key insights and make informed choices. 
 
