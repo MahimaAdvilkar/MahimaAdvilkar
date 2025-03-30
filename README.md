@@ -1,17 +1,34 @@
 <h1 align="center">Hi 👋, I'm Mahima Advilkar</h1>
-<h3 align="center">Senior Business Analyst| California, USA |MSBA Student| Looking for Summer Internship Opportunity 2024 </h3>
-
-- 🌱 Mahima is currently learning **'Business Analysis','Data Mining','Database Management','Data Warehousing','Data Optimization' and `Haptic Technologies`,** 
-
-- 📄 Know about Mahima's experiences (resume) 
+<h3 align="center">Business Analyst | Data Analyst | Product Analyst | MSBA Student(Aug 2023 - May 2025) | Actively Seeking Full-Time Opportunities 2025 </h3>
 
 <h3  align="left">Professional Summary</h3>
   
-Actively looking for Full Time Roles| Pursuing Masters in Business Analytics|Business Analyst| Data Analyst| Consumer Insights| Business Intelligence| Market Research Analyst |Ex- Capgemini
+Hi 👋, I'm Mahima Advilkar
 
-As a Senior Analyst at Capgemini, I leverage social media listening tools and keyword planners to extract valuable data, creating insightful reports on emerging trends and market dynamics for various clients. I develop and execute complex boolean queries to ensure data accuracy and relevancy, and craft New Product Development and Market Research Reports that inform key business decisions, resulting in successful product launches and market expansion. I also translate complex data into visually compelling presentations, enabling senior leadership to quickly grasp key insights and make informed choices. 
+About Me
+I am a Master's student in Business Analytics at California State University, East Bay (CSU East Bay) 🎓, currently on the lookout for full-time opportunities in Business Analytics, Data Analytics, and Product Analyst roles. With a solid foundation in data analysis, business intelligence, and product management, I offer a unique blend of data-driven decision-making and hands-on work experience to create meaningful business outcomes 🚀.
 
-With a Master's degree in Business Analytics from California State University - East Bay, I possess a solid foundation in data analysis, business intelligence, and strategic digital initiatives. I have also gained hands-on experience in digital marketing, brand positioning, and lead generation campaigns, working as a Digital Marketing Consultant at CCI Projects and a Digital Marketing Executive at Dimensionless TechAdemy and BaggageAI. I am proficient in using cutting-edge analytical tools such as Excel, Brandwatch, Google Ads, and CRM, as well as content strategy and social media marketing skills. I am passionate about delivering actionable insights that drive informed business decisions and support organizational growth and innovation. I am committed to collaborating with cross-functional teams and contributing to the Product Management, Business Analyst, or Data Analyst team.
+I’m passionate about using data to uncover insights, optimize business processes, and drive strategic growth 📊. With my background in digital marketing and business analysis, I thrive on combining data analytics with real-world business challenges to provide solutions that enhance organizational efficiency and growth 🌱.
+
+Professional Summary
+With hands-on experience as a Business Analyst Intern and a strong foundation in data analysis, business intelligence, and product management, I’m dedicated to using my analytical skills and business knowledge to deliver actionable insights that empower data-driven decision-making 📈. I’ve worked across multiple domains, leveraging tools like Python, SQL, Power BI, and Excel to conduct data analysis, forecasting, and reporting 🖥️.
+
+Additionally, I have a solid understanding of product lifecycle management, including working on data-driven product development, and I have experience in market research and customer insights to improve business processes 🛠️.
+
+What I’m Looking For
+I’m actively seeking full-time opportunities in the following fields:
+
+Business Analytics
+
+Data Analytics
+
+Product Analyst
+
+My ideal role would allow me to combine my passion for data analysis with my expertise in business strategy to drive business growth, streamline processes, and deliver actionable insights to stakeholders 📊.
+
+Current Internship: Business Analyst Intern at Omatochi
+As a Business Analyst Intern at Omatochi, I am responsible for managing financial transaction data and supporting billing processes 💼. I use analytical tools to extract valuable insights from large datasets, create dynamic dashboards, and assist in financial reporting 📊. Additionally, I am involved in data migration and process optimization to help improve the company’s financial operations and support the company’s growth 🌱.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
