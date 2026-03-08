@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahima Advilkar</h1>
 
-<h3 align="center">Agentic AI Product & Systems Architect</h3>
+<h3 align="center">Agentic AI Product & Systems Solutions Architect</h3>
 <p align="center">
   Strategic AI Thinking · System Design · End-to-End Delivery<br/>
   Healthcare & FinTech AI · LangGraph · RAG · Multi-Agent Systems
