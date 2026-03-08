@@ -3,7 +3,7 @@
 <h3 align="center">Agentic AI Systems Architect · AI Product & Workflow Intelligence</h3>
 
 <p align="center">
-Building AI systems that solve real operational problems.<br/>
+Building production-grade AI systems that automate complex operational workflows.<br/>
 📍 San Francisco Bay Area &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/mahimaadvilkar">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://mahimaadvilkar29.wixsite.com/mahima-advilkar-work">Portfolio</a> &nbsp;·&nbsp;
